@@ -24,7 +24,7 @@ Of course, it depends on the activities of each member, but it is important to k
 
 - Victoria: hours/dasy
 - Fatih: hours/day
-- Gustavo: hours/day
+- Gustavo: 5 hours/day (I'm available between 8:00 - 18:00)
 - Reinaldo: 5 hours/day
 
 
