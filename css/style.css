@@ -1,0 +1,93 @@
+/* Cloud*/
+.cloud .grid {
+    grid-template-columns: 4fr 3fr;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  h2 {
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 10px 0;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  img {
+    width: 100%;
+  }
+
+  /*Background and colored buttons*/
+.bg-primary,
+.btn-primary {
+  background-color: #047aed;
+  color: white;
+}
+.bt-dark {
+  background-color: #f4f4F4;
+  color: #fff;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 30px;
+  cursor: pointer;
+  background: #002240;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.btn-outline {
+    background-color: transparent;
+    border: 1px #fff solid;
+}
+.btn:hover {
+    transform: scale(0.98);
+  }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 40px;
+}
+
+
+
+
+/*text sized*/
+
+.lead {
+    font-size: 20px;
+}
+.text-center {
+    text-align: center;
+}
+
+.lg {
+    font-size: 3rem;
+  }
+  .my-1 {
+      margin: 1rem 0;
+    }
+  
+  .my-2 {
+    margin: 1.5rem 0;
+  }
+  
+  .py-2 {
+    padding: 2rem 0;
+  }
