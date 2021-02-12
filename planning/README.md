@@ -9,7 +9,7 @@ We will meet whenever necessary and circumstances permit. On some occasions, a s
 
 **Planning Documents:**
     
-**Slack Messaging:**  Continually. It is important to know in what stage of the project the rest of the team is working; Furthermore, if any of the members of the group has any request, doubt or question, it should be addressed first by the group before moving on to another instance.
+**Slack Messaging:**  Continuously. It is important to know in what stage of the project the rest of the team is working; Furthermore, if any of the members of the group has any request, doubt or question, it should be addressed first by the group before moving on to another instance.
     
 **Video Calls:** As scheduled by the team. We will have at least two (2) video calls a week to track our progress.
 
@@ -22,10 +22,13 @@ We will meet whenever necessary and circumstances permit. On some occasions, a s
 [comment]: <> (How many hours does everyone have? and when are you generally available?)
 Of course, it depends on the activities of each member, but it is important to know the availability of each one. This information is provided by each member and is never imposed on the group, however the active participation of all members is necessary.
 
-- Victoria: hours/day
+
+
+- Victoria: 5 hours/day (availability: after 9:00 pm}
 - Fatih: 5 hours/day (Mondays and Wednesdays I have Dutch Course (09-12.00))
-- Gustavo: hours/day
-- Reinaldo: 5 hours/day
+- Gustavo: 5 hours/day (I'm available between 8:00 - 18:00)
+- Reinaldo: 5 hours/day (day or night}
+
 
 
 ## Asking for Help
