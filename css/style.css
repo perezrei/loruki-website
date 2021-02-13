@@ -1,35 +1,35 @@
 /* Cloud*/
 .cloud .grid {
-    grid-template-columns: 4fr 3fr;
-  }
-  
-  a {
-    text-decoration: none;
-    color: #333;
-  }
-  
-  h2 {
-    font-weight: 300;
-    line-height: 1.2;
-    margin: 10px 0;
-  }
-  
-  p {
-    margin: 10px 0;
-  }
-  
-  img {
-    width: 100%;
-  }
+  grid-template-columns: 4fr 3fr;
+}
 
-  /*Background and colored buttons*/
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+h2 {
+  font-weight: 300;
+  line-height: 1.2;
+  margin: 10px 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+img {
+  width: 100%;
+}
+
+/*Background and colored buttons*/
 .bg-primary,
 .btn-primary {
   background-color: #047aed;
-  color: white;
+  color: #ffffff;
 }
 .bt-dark {
-  background-color: #f4f4F4;
+  background-color: #f4f4f4;
   color: #fff;
 }
 
@@ -43,12 +43,12 @@
   border-radius: 5px;
 }
 .btn-outline {
-    background-color: transparent;
-    border: 1px #fff solid;
+  background-color: transparent;
+  border: 1px #fff solid;
 }
 .btn:hover {
-    transform: scale(0.98);
-  }
+  transform: scale(0.98);
+}
 
 .grid {
   display: grid;
@@ -65,29 +65,26 @@
   padding: 0 40px;
 }
 
-
-
-
 /*text sized*/
 
 .lead {
-    font-size: 20px;
+  font-size: 20px;
 }
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 
 .lg {
-    font-size: 3rem;
-  }
-  .my-1 {
-      margin: 1rem 0;
-    }
-  
-  .my-2 {
-    margin: 1.5rem 0;
-  }
-  
-  .py-2 {
-    padding: 2rem 0;
-  }
+  font-size: 3rem;
+}
+.my-1 {
+  margin: 1rem 0;
+}
+
+.my-2 {
+  margin: 1.5rem 0;
+}
+
+.py-2 {
+  padding: 2rem 0;
+}
