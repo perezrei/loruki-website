@@ -107,3 +107,32 @@ img {
 .languages .card:hover {
     transform: translateY(-20px);
 }
+
+
+/*Cli*/
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+
+}
+.cli .grid >*:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+
+}
+.card {
+  background-color: #fff;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 10px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
