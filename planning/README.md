@@ -27,7 +27,7 @@ Of course, it depends on the activities of each member, but it is important to k
 - Victoria: 5 hours/day (availability: after 9:00 pm}
 - Fatih: 5 hours/day (Mondays and Wednesdays I have Dutch Course (09-12.00))
 - Gustavo: 5 hours/day (I'm available between 8:00 - 18:00)
-- Reinaldo: 5 hours/day (day or night}
+- Reinaldo: 5 hours/day (from tuesdays-fridays french classes in the morning)
 
 
 
