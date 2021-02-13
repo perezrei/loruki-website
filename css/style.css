@@ -235,6 +235,12 @@ img {
   margin: 20px 0;
 }
 
+.showcase .grid {
+  overflow: visible;
+  grid-template-columns: 60% auto;
+  gap: 30px;
+}
+
 .showcase-form {
   position: relative;
   top: 60px;
