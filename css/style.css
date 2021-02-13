@@ -220,3 +220,19 @@ img {
   height: 100%;
 }
 
+.showcase {
+  height: 400px;
+  background-color: #2c7bca;
+  color: #fff;
+  position: relative;
+}
+
+.showcase h1 {
+  font-size: 40px;
+}
+
+.showcase p {
+  margin: 20px 0;
+}
+
+
